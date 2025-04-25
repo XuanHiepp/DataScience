@@ -1,2 +1,2 @@
-# MMC_DataScience
-Repository chung của lớp học nhóm DataScience
+# DataScience
+This is a simple Repository for DataScience Homework
